@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main{
+public class SistemaDeCalculoDeMedia{
     public static void main(String[] args){
         //Declaração de Variáveis
         Scanner entrada = new Scanner(System.in);
