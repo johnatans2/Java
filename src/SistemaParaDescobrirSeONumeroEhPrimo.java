@@ -63,6 +63,7 @@ Lembre-se, para ser um número primo ele deve ser maior que 1.
                 System.out.println("Você digitou uma opção inválida!");
             }
         }while(!opcao.equals("S"));
+        input.close();
         //Fim do Programa
         System.out.println("Obrigado por utilizar o Sistema Verificador de Número Primo! Volte sempre que precisar");
     }
